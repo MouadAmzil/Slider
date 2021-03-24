@@ -1,2 +1,2 @@
 # Slider
-This is Slider using only html css
+## This is Slider using only html css
